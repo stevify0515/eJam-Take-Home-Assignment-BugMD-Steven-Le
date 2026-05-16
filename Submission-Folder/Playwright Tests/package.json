@@ -1,0 +1,12 @@
+{
+  "name": "bugmd-pdp-funnel-playwright-submission",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
